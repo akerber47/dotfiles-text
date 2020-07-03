@@ -1,0 +1,19 @@
+[core]
+	excludesfile = ~/.gitignore
+	pager = less -FXR
+[user]
+    name = Alvin Kerber
+	email = alvin@alvinkerber.net
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	log = auto
+[alias]
+	st = status
+	ci = commit
+	s = status
+	c = commit
+	a = add
+	p = pull
+	u = push
